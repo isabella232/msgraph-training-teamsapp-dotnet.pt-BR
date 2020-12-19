@@ -1,0 +1,2 @@
+# <a name="msgraph-training-teamsapp-dotnet"></a><span data-ttu-id="9aba6-101">msgraph-Training-teamsapp-dotnet</span><span class="sxs-lookup"><span data-stu-id="9aba6-101">msgraph-training-teamsapp-dotnet</span></span>
+<span data-ttu-id="9aba6-102">Módulo de treinamento do Microsoft Graph-criar aplicativos do teams com o Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="9aba6-102">Microsoft Graph Training Module - Build Teams apps with Microsoft Graph</span></span>
